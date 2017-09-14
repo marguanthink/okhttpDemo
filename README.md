@@ -15,7 +15,7 @@ Download [the latest JAR][3] or grab via Maven:
 </dependency>
 ```
 or Gradle:
----meavon
+```meavon
 compile 'com.squareup.okhttp3:okhttp:3.9.0'
----
+```
 
